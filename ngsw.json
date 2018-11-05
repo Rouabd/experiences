@@ -9,8 +9,8 @@
       "urls": [
         "https://Rouabd.github.io/experiences/index.html",
         "https://Rouabd.github.io/experiences/0.a0bfab5618736ee36600.chunk.js",
-        "https://Rouabd.github.io/experiences/inline.7ff6e63c840d3ff98dba.bundle.js",
-        "https://Rouabd.github.io/experiences/main.2ebe52abe1de4a7d9279.bundle.js",
+        "https://Rouabd.github.io/experiences/inline.644588028723d05cdde3.bundle.js",
+        "https://Rouabd.github.io/experiences/main.e003c747d00316a98315.bundle.js",
         "https://Rouabd.github.io/experiences/polyfills.7ae390d4b3b21040596e.bundle.js",
         "https://Rouabd.github.io/experiences/scripts.6fac32f839940ef5cdf3.bundle.js",
         "https://Rouabd.github.io/experiences/styles.a3827953d210d3642715.bundle.css"
@@ -98,7 +98,7 @@
     {
       "name": "https://Rouabd.github.io/experiences/",
       "patterns": [
-        "\\/CV\\/"
+        "\\/"
       ],
       "strategy": "freshness",
       "maxSize": 15,
@@ -110,9 +110,9 @@
   "hashTable": {
     "https://Rouabd.github.io/experiences/0.a0bfab5618736ee36600.chunk.js": "9d237328316366e0a16fa1e1755d2b4d95fd0491",
     "https://Rouabd.github.io/experiences/assets/icons.zip": "f34b37476791bd3f363fd4332d54b9ebfb47b475",
-    "https://Rouabd.github.io/experiences/inline.7ff6e63c840d3ff98dba.bundle.js": "98634ddf99b1a7fddf34f610775696b6ea10749f",
+    "https://Rouabd.github.io/experiences/inline.644588028723d05cdde3.bundle.js": "3f24c0cf47b294174b8ac0dbeae7e10f0e745ba6",
     "https://Rouabd.github.io/experiences/assets/font-awesome/.npmignore": "dcf470ab3a358103bb896a539cc03caeda10fa8b",
-    "https://Rouabd.github.io/experiences/main.2ebe52abe1de4a7d9279.bundle.js": "51dc474974d7a533a4575edeb8a98ac15a9f4b96",
+    "https://Rouabd.github.io/experiences/main.e003c747d00316a98315.bundle.js": "ca50b0bb98bec15e2724ccc777a2b319a45b0645",
     "https://Rouabd.github.io/experiences/assets/font-awesome/HELP-US-OUT.txt": "4f7bf961f1bed448f6ba99aeb9219fabf930ba96",
     "https://Rouabd.github.io/experiences/polyfills.7ae390d4b3b21040596e.bundle.js": "9c258fae89619a1f107ae351a28a5aa651fe4fea",
     "https://Rouabd.github.io/experiences/assets/font-awesome/package.json": "1351f829ab09bd618a732735213160210a2a0866",
@@ -120,7 +120,7 @@
     "https://Rouabd.github.io/experiences/assets/font-awesome/README.md": "3880a58a50ef7514317c4f47b5707d4fd0106c9c",
     "https://Rouabd.github.io/experiences/styles.a3827953d210d3642715.bundle.css": "29e499ff9cfee858a1166355e0a85df8f84c7722",
     "https://Rouabd.github.io/experiences/assets/font-awesome/css/font-awesome.css": "0140952c64e3f2b74ef64e050f2fe86eab6624c8",
-    "https://Rouabd.github.io/experiences/index.html": "0d6cd808e9c0c361a9f43bab10f47bf8c6cc31d8",
+    "https://Rouabd.github.io/experiences/index.html": "d23784f2e0269108ce4890f3e65625bb448b9927",
     "https://Rouabd.github.io/experiences/assets/font-awesome/css/font-awesome.css.map": "0189d278706509412bac4745f96c83984e1d59f4",
     "https://Rouabd.github.io/experiences/assets/font-awesome/css/font-awesome.min.css": "512c7d79033e3028a9be61b540cf1a6870c896f8",
     "https://Rouabd.github.io/experiences/assets/font-awesome/fonts/fontawesome-webfont.eot": "d980c2ce873dc43af460d4d572d441304499f400",
