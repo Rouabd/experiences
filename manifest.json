@@ -1,41 +1,41 @@
 {
-    "short_name": "My Cv",
-    "name": "Rouissam Abdelmajid 2018 CV----Angular 5",
-    "icons": [
-      {
-        "src": "assets/icons/majid_144x144.jpg",
-        "sizes": "144x144",
-        "type": "image/jpg"
-      },
-    
-        {  
-          "src": "assets/icons/majid_192x192.jpg",  
-          "sizes": "192x192",  
-          "type": "image/jpg"  
-        },  
-        {  
-          "src": "assets/icons/majid_256x256.jpg",  
-          "sizes": "256x256",  
-          "type": "image/jpg"  
-        },  
-        {  
-          "src": "assets/icons/majid_384x384.jpg",  
-          "sizes": "384x384",  
-          "type": "image/jpg"  
-        },  
-        {  
-          "src": "assets/icons/majid_512x512.jpg",  
-          "sizes": "512x512",  
-          "type": "image/png"  
-        }
-    ],
-    "orientation":"any",
-       "scope":"https://Rouabd.github.io/experiences/",
-     "start_url": "https://Rouabd.github.io/experiences/",
-    "display": "standalone",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
-  }
+  "short_name": "My Cv",
+  "name": "Rouissam Abdelmajid 2018 CV----Angular 5",
+  "icons": [
+    {
+      "src": "assets/icons/majid_144x144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+
+    {
+      "src": "assets/icons/majid_192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "assets/icons/majid_256x256.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg"
+    },
+    {
+      "src": "assets/icons/majid_384x384.jpg",
+      "sizes": "384x384",
+      "type": "image/jpg"
+    },
+    {
+      "src": "assets/icons/majid_512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "scope": "https://Rouabd.github.io/experiences/",
+  "start_url": "https://Rouabd.github.io/experiences/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
 
 
 
